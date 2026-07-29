@@ -6,6 +6,8 @@ as part of building practical cyber security skills.
 
 ## Challenges Solved:
 
-1 - [Linux Text Transformations](./linux-text-transformations.md) | General Skills | Easy 
+1 - [Linux Text Transformations](./linux-text-transformations.md) | General Skills
 
-2 - [Multi Code - Nested Encodings](./multi-code.md) | General Skills | Easy
+2 - [Multi Code - Nested Encodings](./multi-code.md) | General Skills 
+
+3 - [Log Hunt](./log-hunt.md) | General Skills 
