@@ -13,3 +13,5 @@ as part of building practical cyber security skills.
 3 - [Log Hunt](./log-hunt.md) | General Skills 
 
 4 - [Piece by piece](./piece-by-piece.md) | General Skills
+
+5 - [Repetitions - multiple decoding](./repetitions.md) | General Skills
