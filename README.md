@@ -11,3 +11,5 @@ as part of building practical cyber security skills.
 2 - [Multi Code - Nested Encodings](./multi-code.md) | General Skills 
 
 3 - [Log Hunt](./log-hunt.md) | General Skills 
+
+4 - [Piece by piece](./piece-by-piece.md) | General Skills
